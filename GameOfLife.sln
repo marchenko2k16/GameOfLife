@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.202
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GameOfLife", "GameOfLife\GameOfLife.vcxproj", "{416EE12B-DD98-45D1-85C7-0C144B8AE622}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{416EE12B-DD98-45D1-85C7-0C144B8AE622}.Debug|x64.ActiveCfg = Debug|x64
+		{416EE12B-DD98-45D1-85C7-0C144B8AE622}.Debug|x64.Build.0 = Debug|x64
+		{416EE12B-DD98-45D1-85C7-0C144B8AE622}.Debug|x86.ActiveCfg = Debug|Win32
+		{416EE12B-DD98-45D1-85C7-0C144B8AE622}.Debug|x86.Build.0 = Debug|Win32
+		{416EE12B-DD98-45D1-85C7-0C144B8AE622}.Release|x64.ActiveCfg = Release|x64
+		{416EE12B-DD98-45D1-85C7-0C144B8AE622}.Release|x64.Build.0 = Release|x64
+		{416EE12B-DD98-45D1-85C7-0C144B8AE622}.Release|x86.ActiveCfg = Release|Win32
+		{416EE12B-DD98-45D1-85C7-0C144B8AE622}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8D505119-D140-4512-A6E1-FED135D5806E}
+	EndGlobalSection
+EndGlobal
